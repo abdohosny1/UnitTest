@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payroll", "Payroll\Payroll.csproj", "{9BD361AE-6F3F-46F4-B8D4-820DB03B78F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payroll.Tests", "Payroll.Tests\Payroll.Tests.csproj", "{242ECEDB-49EF-4028-ADBA-BD27AEB266B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BD361AE-6F3F-46F4-B8D4-820DB03B78F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BD361AE-6F3F-46F4-B8D4-820DB03B78F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BD361AE-6F3F-46F4-B8D4-820DB03B78F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BD361AE-6F3F-46F4-B8D4-820DB03B78F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{242ECEDB-49EF-4028-ADBA-BD27AEB266B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{242ECEDB-49EF-4028-ADBA-BD27AEB266B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{242ECEDB-49EF-4028-ADBA-BD27AEB266B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{242ECEDB-49EF-4028-ADBA-BD27AEB266B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB700CB6-51C6-48B2-A6B9-1CD4BF2F567F}
+	EndGlobalSection
+EndGlobal
